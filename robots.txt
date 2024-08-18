@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://getionda.github.io/sitemap.html.gz
+Sitemap: https://getionda.github.io/app/sitemap.html.gz
+Sitemap: https://getionda.github.io/assets/sitemap.html.gz
+Sitemap: https://getionda.github.io/css/sitemap.html.gz
+Sitemap: https://getionda.github.io/includes/sitemap.html.gz
+Sitemap: https://getionda.github.io/item/sitemap.html.gz
+Sitemap: https://getionda.github.io/src/sitemap.html.gz
